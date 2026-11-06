@@ -1,0 +1,24 @@
+body {
+    background-color: lightgray;
+}
+
+h1, h2 {
+    color: navy;
+    font-family: Arial;
+}
+
+.destaque {
+    background-color: lightblue;
+    margin: 20px;
+}
+
+/* 
+Desafio Técnico: 
+A regra CSS mais difícil de aplicar foi a da classe .destaque para garantir que o fundo contrastante e a margem funcionavam apenas no parágrafo pretendido. Consegui superar revendo a matéria e testando no browser.
+
+Correção de Sintaxe: 
+O erro mais comum durante os testes foi esquecer-me do ponto e vírgula (;) no final de uma linha de estilo ou de fechar uma chaveta, o que me obrigava a voltar ao Notepad++ para corrigir.
+
+Autoria: 
+O atributo src serve para indicar o caminho e o nome exato do ficheiro da imagem que queremos apresentar, permitindo ao browser saber onde ir buscar esse recurso para o mostrar na página.
+*/
